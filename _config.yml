@@ -30,9 +30,14 @@ tabs:
   - title: "Estudantes"
     url: /estudantes/
     icon: fas fa-user-graduate
-    sub_tabs:
+    sections:
       - title: "Secretaria Acadêmica"
+        url: /estudantes/secretaria_academica/
       - title: "Serviço Social"
+        url: /estudantes/serviço_social/
+        subsections:
+          - title: "Teste"
+            url: /estudantes/serviço_social/teste/
   - title: "Servidores"
     url: /servidores/
     icon: fas fa-file-alt

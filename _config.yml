@@ -32,7 +32,7 @@ tabs:
     icon: fas fa-user-graduate
     sections:
       - title: "Secretaria Acadêmica"
-        url: /estudantes/secretaria_academica/
+        url: /estudantes.md/secretaria_academica/
       - title: "Serviço Social"
         url: /estudantes/serviço_social/
         subsections:

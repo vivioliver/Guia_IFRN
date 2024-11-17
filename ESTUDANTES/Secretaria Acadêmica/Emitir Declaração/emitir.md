@@ -9,4 +9,8 @@
 ![Imagem 2](<declaracao2.png>)
 
 ###### Automaticamente o arquivo já será baixado!
+
+###### Aqui segue um vídeo
+![Aqui segue um gif](<declaração.gif>)
+
 ###### Pronto! Agora você sabe como emitir declarações/comprovantes pelo SUAP.

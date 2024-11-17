@@ -7,7 +7,7 @@
 - Método EAP: **“PEAP”**; 
 - Autenticação da fase 2: **“MSCHAPV2”**;
 - Certificado CA: **“NÃO VALIDAR”**;
-- Identidade: **“MATRÍCULA@ifrn.edu.br”**;
+- Identidade: **“MATRÍCULA @ifrn.edu.br”**;
 - Identidade anônima: **“NÃO PREENCHER”**;
 Senha: **“SENHA DO SUAP”**.
 

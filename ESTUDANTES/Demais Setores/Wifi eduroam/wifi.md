@@ -15,4 +15,7 @@ Senha: **“SENHA DO SUAP”**.
 
 ![Imagem 2](<wifi2.png>)
 
+###### Aqui segue um vídeo
+![Aqui segue um gif](<eduroam.gif>)
+
 ###### Pronto! Agora você já sabe como se conectar a rede eduroam.

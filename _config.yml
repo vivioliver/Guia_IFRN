@@ -18,7 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-avatar:
+sidebar:
+  data: sidebar.yml
+
+avatar: /assets/img/logo.tcc.png
 title: Guia IFRN Ceará-Mirim
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -30,14 +33,11 @@ tabs:
   - title: "Estudantes"
     url: /estudantes/
     icon: fas fa-user-graduate
-    sections:
+    tabs:
       - title: "Secretaria Acadêmica"
-        url: /estudantes/secretaria_academica/
+        url: /estudantes/secretaria-academica
       - title: "Serviço Social"
-        url: /estudantes/serviço_social/
-        subsections:
-          - title: "Teste"
-            url: /estudantes/serviço_social/teste/
+        url: /estudantes/servico-social/
   - title: "Servidores"
     url: /servidores/
     icon: fas fa-file-alt

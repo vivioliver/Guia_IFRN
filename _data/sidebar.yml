@@ -1,1 +1,4 @@
-
+- title: Estudantes
+  children:
+    - title: Secretaria Acadêmica
+      url: /estudantes/secretaria-academica

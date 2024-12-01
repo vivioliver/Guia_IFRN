@@ -23,6 +23,6 @@ Veja como pedir apoio financeiro em situações específicas e emergenciais.
 
 ## 📌 Informações importantes:
 - Certifique-se de estar com seus dados atualizados para acessar os benefícios.  
-- Caso tenha dúvidas, procure o Serviço Social do seu campus ou envie um e-mail para **servicosocial@ifrn.edu.br**.  
+- Caso tenha dúvidas, procure o Serviço Social do seu campus.
 
 Aproveite os recursos oferecidos e conte com o Serviço Social para o que precisar! 😊
